@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi 👋 I'm Esmaeil (Reza) Ghafarnia</h1>
 
 <p align="center">
   <strong>CTO at Kahkeshan</strong> | <strong>VP of Engineering at Saman Health</strong><br>
