@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Esmaeil (Reza) Ghafarnia</h1>
 
 <p align="center">
-  <strong>CTO at Kahkeshan Group</strong> | <strong>VP of Engineering at Saman Health</strong><br>
+  <strong>VP of Engineering at Saman Health</strong><br>
   Passionate about building scalable systems and impactful digital products.
 </p>
 
@@ -9,7 +9,6 @@
 
 ### 🧠 About Me
 
-- 🚀 CTO at a cybersecurity-focused company transitioning from service to product-based business
 - 💼 VP of Engineering at Saman Health, building digital health platforms
 - 🧠 Focused on **Software Design**, **Architecture**, and **Engineering Leadership**  
 - 🧩 Enjoy designing modular architecture using .NET Core, Spring Boot, NestJS and Kubernetes
