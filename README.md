@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Esmaeil (Reza) Ghafarnia</h1>
 
 <p align="center">
-  <strong>VP of Engineering at Saman Health</strong><br>
+  <strong>VP of Engineering | Former CTO | Tech & Strategy Leader | Board Advisor</strong><br>
   Passionate about building scalable systems and impactful digital products.
 </p>
 
